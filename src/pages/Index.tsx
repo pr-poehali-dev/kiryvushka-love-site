@@ -124,7 +124,7 @@ const Index = () => {
           </div>
 
           <p className="text-3xl text-primary/60 handwriting animate-fade-in" style={{ animationDelay: '0.9s' }}>
-            Для самой прекрасной девочки на свете ✨
+            Для самого прекрасного котеночка на свете ✨
           </p>
         </div>
       </div>
